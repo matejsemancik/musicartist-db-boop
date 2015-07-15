@@ -1,0 +1,11 @@
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\bin\Debug\Databaza_Skupin.exe.config
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\bin\Debug\Databaza_Skupin.exe
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\bin\Debug\Databaza_Skupin.pdb
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.csprojResolveAssemblyReference.cache
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.Form1.resources
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.Properties.Resources.resources
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.csproj.GenerateResource.Cache
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.exe
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.pdb
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.AddForm.resources
+C:\Users\Matej\Desktop\BOOP projekt xseman03\Databaza_Skupin\obj\Debug\Databaza_Skupin.EditForm.resources
