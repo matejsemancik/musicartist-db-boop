@@ -13,14 +13,7 @@ namespace Databaza_Skupin
 
         public Databaza()
         {
-            // Test
-            /*listSkupin.Add("Trolling monkeys", new HudSkupina("Trolling monkeys", 2015));
-            HudSkupina sk;
-            if(listSkupin.TryGetValue("Trolling monkeys", out sk))
-            {
-                sk.addAlbum("Banana Music vol.1");
-                sk.addAlbum("Banana Music vol.2");
-            }*/
+
         }
 
         public void export(string path)
